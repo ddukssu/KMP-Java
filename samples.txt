@@ -1,0 +1,14 @@
+Short text:
+Text: Qiuyuan
+Pattern: yu
+Output: [2]
+
+Medium text:
+Text: Name the target.
+Pattern: the
+Output: [5]
+
+Long text:
+Text: (Qiuyuan character description)
+Pattern: a
+Output: many positions where 'a' appears
